@@ -43,7 +43,19 @@ h1,h2,h3,h4,h5,h6 {
      50% { opacity: 0.5; }
      100% { opacity: 0; }
  }
-
+.fa-blinkf {
+   -webkit-animation: fa-blink .75s linear infinite;
+   -moz-animation: fa-blink .75s linear infinite;
+   -ms-animation: fa-blink .75s linear infinite;
+   -o-animation: fa-blink .75s linear infinite;
+   animation: fa-blink .75s linear infinite;
+}@keyframes fa-blinkf {
+     0% { opacity: 1; }
+     25%{color: #f33f3f;}
+     50% { opacity: 0.5; }
+     75% { opacity: 0.25; }
+     100% { opacity: 0; }
+ }
 
 ul.social-icons li {
 	display: inline-block;
