@@ -40,8 +40,10 @@ h1,h2,h3,h4,h5,h6 {
    animation: fa-blink .75s linear infinite;
 }@keyframes fa-blink {
      0% { opacity: 1; }
+     25%{opacity: 0.75 }
      50% { opacity: 0.5; }
-     100% { opacity: 0; }
+     75% { opacity: 0.25; }
+     100% { opacity: 0.9; }
  }
 .fa-blinkf {
    -webkit-animation: fa-blink .75s linear infinite;
@@ -51,7 +53,7 @@ h1,h2,h3,h4,h5,h6 {
    animation: fa-blink .75s linear infinite;
 }@keyframes fa-blinkf {
      0% { opacity: 1; }
-     25%{color: #f33f3f;}
+     25%{opacity: 0.75 }
      50% { opacity: 0.5; }
      75% { opacity: 0.25; }
      100% { opacity: 0; }
