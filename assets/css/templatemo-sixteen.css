@@ -383,6 +383,8 @@ header .navbar {
 
 }
 
+/*tanvir ahmad*/
+
 .banner .banner-item {
 	max-height: 600px;
 }
@@ -532,7 +534,7 @@ header .navbar {
 	border-bottom: 1px solid #eee;
 	padding-bottom: 20px;
 }
-
+/*tanvir ahmad*/
 .about-features .container .row {
 	padding-bottom: 0px!important;
 	border-bottom: none!important;
@@ -618,7 +620,7 @@ header .navbar {
 	color: #1a6692;
 	margin-bottom: 15px;
 }
-
+/*tanvir ahmad*/
 .call-to-action .inner-content em {
 	font-style: normal;
 	font-weight: 700;
@@ -687,7 +689,7 @@ footer .inner-content p a {
 .products .filters ul li:hover {
   color: #f33f3f;
 }
-
+/*tanvir ahmad*/
 .products ul.pages {
 	margin-top: 30px;
 	text-align: center;
@@ -697,7 +699,7 @@ footer .inner-content p a {
 	display: inline-block;
 	margin: 0px 2px;
 }
-
+/*tanvir ahmad*/
 .products ul.pages li a {
 	width: 44px;
 	height: 44px;
@@ -743,7 +745,7 @@ footer .inner-content p a {
 .team-member .thumb-container {
 	position: relative;
 }
-
+/*tanvir ahmad*/
 .team-member .thumb-container .hover-effect {
 	position: absolute;
 	background-color: rgba(243,63,63,0.9);
@@ -873,7 +875,7 @@ footer .inner-content p a {
 	padding-bottom: 30px;
 	margin-bottom: 30px;
 }
-
+/*tanvir ahmad*/
 .find-us h4 {
 	font-size: 17px;
 	color: #1a6692;
@@ -1037,7 +1039,7 @@ footer .inner-content p a {
 		margin-top: 20px;
 	}
 	.about-features img {
-		margin-bottom: 30px;
+		margin-bottom: 30px;/*tanvir ahmad*/
 	}
 	.service-item {
 		margin-bottom: 30px;
@@ -1045,7 +1047,7 @@ footer .inner-content p a {
 	.find-us #map {
 		margin-bottom: 30px;
 	}
-	.find-us .left-content {
+	.find-us .left-content {/*tanvir ahmad*/
 		margin-left: 0px;
 	}
 	.send-message .accordion {
