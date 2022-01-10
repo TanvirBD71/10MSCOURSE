@@ -200,6 +200,11 @@ a.filled-button:hover {
   animation-delay: 0.66666s;
 }
 
+#nav45{
+	display: inline-block;
+	text-align: center;
+}
+
 @-webkit-keyframes jumper {
   0% {
     opacity: 0;
